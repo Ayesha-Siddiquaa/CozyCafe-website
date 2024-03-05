@@ -25,7 +25,7 @@ To run the website locally, follow these steps:
 
 # Butterfly World Website
 
-Welcome to Butterfly World! This is a simple webpage providing information about various beautiful butterfly species.
+     Welcome to Butterfly World! This is a simple webpage providing information about various beautiful butterfly species.
 
 ## Description
 
