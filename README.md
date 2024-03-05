@@ -1,5 +1,5 @@
 # CozyCafe-website
-   This platform was created as a learning process to practice HTML and CSS while building a website for a cozy cafe promoting delicious beverages and snacks in a warm and inviting atmosphere.
+      This platform was created as a learning process to practice HTML and CSS while building a website for a cozy cafe promoting delicious beverages and snacks in a warm and inviting atmosphere.
 
 # Introduction
 The Cozy Cafe website provides information about the cozy cafe, its offerings, and its ambiance. It includes sections for home, menu, about us, and contact. The website aims to showcase the cafe's menu items, encourage visitors to visit the cafe, and provide a glimpse of its cozy atmosphere.
