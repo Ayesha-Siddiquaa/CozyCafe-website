@@ -1,1 +1,24 @@
 # CozyCafe-website
+   This platform was created as a learning process to practice HTML and CSS while building a website for a cozy cafe promoting delicious beverages and snacks in a warm and inviting atmosphere.
+
+# Introduction
+The Cozy Cafe website provides information about the cozy cafe, its offerings, and its ambiance. It includes sections for home, menu, about us, and contact. The website aims to showcase the cafe's menu items, encourage visitors to visit the cafe, and provide a glimpse of its cozy atmosphere.
+
+# Features
+- Navigation: The website includes a navigation bar with links to different sections of the site, such as home, menu, about us, and contact.
+
+- Menu Showcase: The menu section showcases various delicious items offered by Cozy Cafe, including coffee, tea, pastries, and more.
+
+- About Us: The about us section provides information about Cozy Cafe, its mission, and its commitment to providing a cozy environment for its customers.
+
+- Contact Form: The contact section allows visitors to get in touch with Cozy Cafe for inquiries, feedback, or reservations.
+
+# Setup
+To run the website locally, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Open the index.html file in a web browser.
+
+# Technologies Used
+- HTML
+- CSS
